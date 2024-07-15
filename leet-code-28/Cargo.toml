@@ -1,0 +1,6 @@
+[package]
+name = "leet-code-28"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
